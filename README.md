@@ -3,7 +3,7 @@
 - 🧑‍🎓Atualmente graduanda em Economia; <br>
 - 📚Aprendendo Phyton, R e MySQL; <br>
 - 😊Pronome: Ela/Dela
-<img src="https://komarev.com/ghpvc/?username=SEUUSUARIO&color=green" alt="gabriela27lima" /> 
+
 
  <div>
   <a href="https://github.com/gabriela27lima">
@@ -25,6 +25,8 @@
   <a href="https://instagram.com/gabriela_slima" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gabriela.27lima@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ana-gabriela-lima-09441b148/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+ <img src="https://komarev.com/ghpvc/?username=SEUUSUARIO&color=green" alt="gabriela27lima" /> 
   
  
 </div>
