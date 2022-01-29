@@ -1,7 +1,7 @@
 ## Oiii! Eu sou a Ana Gabriela!
 - 🎓Enfermeira; <br>
 - 🧑‍🎓Atualmente graduanda em Economia; <br>
-- 📚Aprendendo Phyton, R e MySQL; <br>
+- 📚Aprendendo Python, R e MySQL; <br>
 - 😊Pronome: Ela/Dela
 
 
